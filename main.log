@@ -1,32 +1,54 @@
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:No process found with PID 73219.
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
-INFO:root:Thread on_modified_thread: starting
+INFO:root:Process Priorty: 2 Niceness of 22258: 0
+INFO:root:scheduling process 22258 ; priority: 2
+INFO:root:Process Priorty: 3 Niceness of 22261: 0
+INFO:root:scheduling process 22261 ; priority: 3
+INFO:root:Process Priorty: 4 Niceness of 22263: 0
+INFO:root:scheduling process 22263 ; priority: 4
+INFO:root:Process Priorty: 4 Niceness of 22266: 0
+INFO:root:scheduling process 22266 ; priority: 4
+INFO:root:Process Priorty: 2 Niceness of 22258: -10
+INFO:root:Successfully deleted process 22258 from the list.
+INFO:root:Process Priorty: 4 Niceness of 22266: 10
+INFO:root:Successfully deleted process 22266 from the list.
+INFO:root:Process Priorty: 3 Niceness of 22261: 0
+INFO:root:Successfully deleted process 22261 from the list.
+INFO:root:Process Priorty: 4 Niceness of 22263: 10
+INFO:root:Successfully deleted process 22263 from the list.
+INFO:root:Process Priorty: 2 Niceness of 25340: 19
+INFO:root:scheduling process 25340 ; priority: 2
+INFO:root:Process Priorty: 2 Niceness of 25340: -10
+INFO:root:Successfully deleted process 25340 from the list.
+INFO:root:Process Priorty: 4 Niceness of 25336: 19
+INFO:root:scheduling process 25336 ; priority: 4
+INFO:root:Process Priorty: 2 Niceness of 25434: 19
+INFO:root:scheduling process 25434 ; priority: 2
+INFO:root:Process Priorty: 2 Niceness of 25434: -10
+INFO:root:Successfully deleted process 25434 from the list.
+INFO:root:Process Priorty: 4 Niceness of 25433: 19
+INFO:root:scheduling process 25433 ; priority: 4
+INFO:root:Process Priorty: 4 Niceness of 25433: 0
+INFO:root:Successfully deleted process 25433 from the list.
+INFO:root:Process Priorty: 2 Niceness of 25488: 19
+INFO:root:scheduling process 25488 ; priority: 2
+INFO:root:Process Priorty: 2 Niceness of 25488: -10
+INFO:root:Successfully deleted process 25488 from the list.
+INFO:root:Process Priorty: 4 Niceness of 25487: 19
+INFO:root:scheduling process 25487 ; priority: 4
+INFO:root:Process Priorty: 4 Niceness of 25487: 0
+INFO:root:Successfully deleted process 25487 from the list.
+INFO:root:Process Priorty: 2 Niceness of 25666: 19
+INFO:root:scheduling process 25666 ; priority: 2
+INFO:root:Process Priorty: 2 Niceness of 25666: -10
+INFO:root:Successfully deleted process 25666 from the list.
+INFO:root:Process Priorty: 4 Niceness of 25665: 19
+INFO:root:scheduling process 25665 ; priority: 4
+INFO:root:Process Priorty: 4 Niceness of 25665: 0
+INFO:root:Successfully deleted process 25665 from the list.
+INFO:root:Process Priorty: 2 Niceness of 25934: 19
+INFO:root:scheduling process 25934 ; priority: 2
+INFO:root:Process Priorty: 2 Niceness of 25934: -10
+INFO:root:Successfully deleted process 25934 from the list.
+INFO:root:Process Priorty: 4 Niceness of 25933: 19
+INFO:root:scheduling process 25933 ; priority: 4
+INFO:root:Process Priorty: 4 Niceness of 25933: 0
+INFO:root:Successfully deleted process 25933 from the list.
